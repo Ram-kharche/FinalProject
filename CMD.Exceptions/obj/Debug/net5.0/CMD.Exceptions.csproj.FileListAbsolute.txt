@@ -1,0 +1,15 @@
+D:\Project Final\dashboard\CMD.Exceptions\bin\Debug\net5.0\CMD.Exceptions.deps.json
+D:\Project Final\dashboard\CMD.Exceptions\bin\Debug\net5.0\CMD.Exceptions.runtimeconfig.json
+D:\Project Final\dashboard\CMD.Exceptions\bin\Debug\net5.0\CMD.Exceptions.runtimeconfig.dev.json
+D:\Project Final\dashboard\CMD.Exceptions\bin\Debug\net5.0\CMD.Exceptions.dll
+D:\Project Final\dashboard\CMD.Exceptions\bin\Debug\net5.0\ref\CMD.Exceptions.dll
+D:\Project Final\dashboard\CMD.Exceptions\bin\Debug\net5.0\CMD.Exceptions.pdb
+D:\Project Final\dashboard\CMD.Exceptions\obj\Debug\net5.0\CMD.Exceptions.csproj.AssemblyReference.cache
+D:\Project Final\dashboard\CMD.Exceptions\obj\Debug\net5.0\CMD.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Final\dashboard\CMD.Exceptions\obj\Debug\net5.0\CMD.Exceptions.AssemblyInfoInputs.cache
+D:\Project Final\dashboard\CMD.Exceptions\obj\Debug\net5.0\CMD.Exceptions.AssemblyInfo.cs
+D:\Project Final\dashboard\CMD.Exceptions\obj\Debug\net5.0\CMD.Exceptions.csproj.CoreCompileInputs.cache
+D:\Project Final\dashboard\CMD.Exceptions\obj\Debug\net5.0\CMD.Exceptions.dll
+D:\Project Final\dashboard\CMD.Exceptions\obj\Debug\net5.0\ref\CMD.Exceptions.dll
+D:\Project Final\dashboard\CMD.Exceptions\obj\Debug\net5.0\CMD.Exceptions.pdb
+D:\Project Final\dashboard\CMD.Exceptions\obj\Debug\net5.0\CMD.Exceptions.genruntimeconfig.cache

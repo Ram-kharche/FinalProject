@@ -1,0 +1,17 @@
+D:\Project Final\dashboard\CMD.DataAccess\bin\Debug\net5.0\CMD.DataAccess.deps.json
+D:\Project Final\dashboard\CMD.DataAccess\bin\Debug\net5.0\CMD.DataAccess.runtimeconfig.json
+D:\Project Final\dashboard\CMD.DataAccess\bin\Debug\net5.0\CMD.DataAccess.runtimeconfig.dev.json
+D:\Project Final\dashboard\CMD.DataAccess\bin\Debug\net5.0\CMD.DataAccess.dll
+D:\Project Final\dashboard\CMD.DataAccess\bin\Debug\net5.0\ref\CMD.DataAccess.dll
+D:\Project Final\dashboard\CMD.DataAccess\bin\Debug\net5.0\CMD.DataAccess.pdb
+D:\Project Final\dashboard\CMD.DataAccess\bin\Debug\net5.0\CMD.Entities.dll
+D:\Project Final\dashboard\CMD.DataAccess\bin\Debug\net5.0\CMD.Entities.pdb
+D:\Project Final\dashboard\CMD.DataAccess\obj\Debug\net5.0\CMD.DataAccess.csproj.AssemblyReference.cache
+D:\Project Final\dashboard\CMD.DataAccess\obj\Debug\net5.0\CMD.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Final\dashboard\CMD.DataAccess\obj\Debug\net5.0\CMD.DataAccess.AssemblyInfoInputs.cache
+D:\Project Final\dashboard\CMD.DataAccess\obj\Debug\net5.0\CMD.DataAccess.AssemblyInfo.cs
+D:\Project Final\dashboard\CMD.DataAccess\obj\Debug\net5.0\CMD.DataAccess.csproj.CoreCompileInputs.cache
+D:\Project Final\dashboard\CMD.DataAccess\obj\Debug\net5.0\CMD.DataAccess.dll
+D:\Project Final\dashboard\CMD.DataAccess\obj\Debug\net5.0\ref\CMD.DataAccess.dll
+D:\Project Final\dashboard\CMD.DataAccess\obj\Debug\net5.0\CMD.DataAccess.pdb
+D:\Project Final\dashboard\CMD.DataAccess\obj\Debug\net5.0\CMD.DataAccess.genruntimeconfig.cache

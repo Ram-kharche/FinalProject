@@ -1,0 +1,15 @@
+D:\Project Final\dashboard\CMD.Entities\bin\Debug\net5.0\CMD.Entities.deps.json
+D:\Project Final\dashboard\CMD.Entities\bin\Debug\net5.0\CMD.Entities.runtimeconfig.json
+D:\Project Final\dashboard\CMD.Entities\bin\Debug\net5.0\CMD.Entities.runtimeconfig.dev.json
+D:\Project Final\dashboard\CMD.Entities\bin\Debug\net5.0\CMD.Entities.dll
+D:\Project Final\dashboard\CMD.Entities\bin\Debug\net5.0\ref\CMD.Entities.dll
+D:\Project Final\dashboard\CMD.Entities\bin\Debug\net5.0\CMD.Entities.pdb
+D:\Project Final\dashboard\CMD.Entities\obj\Debug\net5.0\CMD.Entities.csproj.AssemblyReference.cache
+D:\Project Final\dashboard\CMD.Entities\obj\Debug\net5.0\CMD.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Final\dashboard\CMD.Entities\obj\Debug\net5.0\CMD.Entities.AssemblyInfoInputs.cache
+D:\Project Final\dashboard\CMD.Entities\obj\Debug\net5.0\CMD.Entities.AssemblyInfo.cs
+D:\Project Final\dashboard\CMD.Entities\obj\Debug\net5.0\CMD.Entities.csproj.CoreCompileInputs.cache
+D:\Project Final\dashboard\CMD.Entities\obj\Debug\net5.0\CMD.Entities.dll
+D:\Project Final\dashboard\CMD.Entities\obj\Debug\net5.0\ref\CMD.Entities.dll
+D:\Project Final\dashboard\CMD.Entities\obj\Debug\net5.0\CMD.Entities.pdb
+D:\Project Final\dashboard\CMD.Entities\obj\Debug\net5.0\CMD.Entities.genruntimeconfig.cache

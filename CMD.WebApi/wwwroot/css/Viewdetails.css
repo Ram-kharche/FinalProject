@@ -1,0 +1,374 @@
+﻿/*This datalist for view appointment*/
+.topHead {
+    width: 100%;
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 8px;
+    padding: 0.5em;
+    height: fit-content;
+    margin-bottom: 1em;
+}
+
+.appointmentscontainer {
+    border-radius: 10px;
+    padding: 1em;
+    background-color: rgb(236, 236, 248);
+    width: 100%;
+    margin-top: 4rem;
+    font-family: sans-serif
+}
+
+.closeAppointmentButton {
+    background-color: #18385c;
+    color: white;
+    padding: 0.8rem;
+    cursor: pointer;
+    width: fit-content;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+.buttonPosition {
+    text-align: right;
+    display: flex;
+    align-items: flex-end;
+}
+
+.margin {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+/*This datalist for Patient Details*/
+
+
+.patientscontainer {
+    font-family: sans-serif;
+    color: #18385c;
+    border-radius: 10px;
+    height: 250px;
+    padding: 1rem;
+    padding-bottom: 1rem;
+    background-color: white;
+    width: 100%;
+    border: 0.1px solid lightgray;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 2rem;
+}
+
+.fontOpacity {
+    opacity: 0.5;
+    font-size: 12px;
+}
+
+.personName {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.font_15px {
+    font-size: 15px;
+}
+
+.detailsPosition {
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.verticalLine {
+    border-left: 1px solid gray;
+    height: 80px;
+    opacity: 0.5;
+    margin-top: 1rem;
+    width: 0.5rem;
+    margin-right: -2rem;
+}
+
+/*This is for Doctor Details*/
+.doctorcontainer {
+    font-family: sans-serif;
+    color: #18385c;
+    border-radius: 10px;
+    height: 250px;
+    padding: 1rem;
+    padding-bottom: 1rem;
+    background-color: white;
+    width: 100%;
+    border: 0.1px solid lightgray;
+    padding-bottom: 3rem;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 2rem;
+}
+
+.fontOpacity {
+    opacity: 0.5;
+    font-size: 12px;
+}
+
+.personName {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.font_15 {
+    font-size: 15px;
+}
+
+.detailsPosition {
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.verticalLine {
+    border-left: 1px solid gray;
+    height: 80px;
+    opacity: 0.5;
+    margin-top: 1rem;
+    width: 0.5rem;
+    margin-right: -2rem;
+}
+
+.font_10_opacity {
+    font-size: 10px;
+    opacity: 0.5;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.marginLeft {
+    margin-left: 2rem;
+}
+
+/*This is for Comments*/
+
+.commentscontainer {
+    font-family: sans-serif;
+    color: #18385c;
+    border-radius: 10px;
+    height: 100%;
+    padding: 2rem;
+    padding-bottom: 1rem;
+    background-color: white;
+    width: 100%;
+    border: 0.1px solid lightgray;
+}
+
+.headingName {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn {
+    margin-left: 3rem;
+}
+
+p {
+    font-size: 12px;
+    margin-top: 1rem;
+}
+
+/*This is for Recommendation*/
+
+.recommendationscontainer {
+    font-family: sans-serif;
+    color: #18385c;
+    border-radius: 10px;
+    height: 400px;
+    padding: 2rem;
+    padding-bottom: 1rem;
+    background-color: white;
+    width: 100%;
+    border: 0.1px solid lightgray;
+    padding-bottom: 3rem;
+}
+
+.headingName {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input {
+    border: none;
+    outline: none;
+    width: 100%;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.font_12 {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
+
+.doctors {
+    width: 100%;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    padding-top: 0.8rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 0.8rem;
+}
+
+/*This is for Vitals*/
+
+.vitalscontainer {
+    font-family: sans-serif;
+    color: #18385c;
+    border-radius: 10px;
+    height: 400px;
+    padding: 3rem;
+    padding-bottom: 1rem;
+    background-color: white;
+    width: 100%;
+    border: 0.1px solid lightgray;
+    padding-bottom: 3rem;
+}
+
+.headingName {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn {
+    margin-left: 3rem;
+}
+
+.font_12 {
+    font-size: 8px;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.margin {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/*This is for Prescriptions*/
+
+.prescriptionscontainer {
+    font-family: sans-serif;
+    color: #18385c;
+    border-radius: 10px;
+    height: 20rem;
+    padding: 2rem;
+    padding-bottom: 1rem;
+    background-color: white;
+    width: 100%;
+    border: 0.1px solid lightgray;
+}
+
+.headingName {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #18385c;
+}
+
+.card {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 0px 5px;
+    border-radius: 5px;
+    margin-top: 1rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+}
+
+.font_12 {
+    font-size: 12px;
+}
+
+.font_10_opacity {
+    padding-left: 1.4rem;
+    font-size: 10px;
+    opacity: 0.5;
+}
+
+.alignIcons {
+    text-align: right;
+    margin-top: -1rem;
+}
+
+.tabletsDose {
+    font-size: 10px;
+    background-color: #008080;
+    color: white;
+    border-radius: 5px;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+    width: fit-content;
+}
+
+/*This is for Tests*/
+
+.testcontainer {
+    font-family: sans-serif;
+    color: #18385c;
+    border-radius: 10px;
+    height: 20rem;
+    padding: 2rem;
+    padding-bottom: 1rem;
+    background-color: white;
+    width: 100%;
+    border: 0.1px solid lightgray;
+    padding-bottom: 3rem;
+}
+
+.headingName {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input {
+    border: none;
+    outline: none;
+    width: 100%;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.font_12 {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tests {
+    width: 100%;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    padding-top: 0.8rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 0.8rem;
+    width: fit-content;
+}

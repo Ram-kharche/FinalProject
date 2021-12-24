@@ -1,0 +1,27 @@
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\bin\Debug\net5.0\CMD.Business.deps.json
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\bin\Debug\net5.0\CMD.Business.dll
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\bin\Debug\net5.0\ref\CMD.Business.dll
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\bin\Debug\net5.0\CMD.Business.pdb
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.csproj.AssemblyReference.cache
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.AssemblyInfoInputs.cache
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.AssemblyInfo.cs
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.csproj.CoreCompileInputs.cache
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.dll
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\ref\CMD.Business.dll
+C:\Users\Navakarthiga.r\Downloads\CMDProjectApplication\CMDProjectApplication\CMD.Business\obj\Debug\net5.0\CMD.Business.pdb
+D:\Project Final\dashboard\CMD.Business\bin\Debug\net5.0\CMD.Business.deps.json
+D:\Project Final\dashboard\CMD.Business\bin\Debug\net5.0\CMD.Business.runtimeconfig.json
+D:\Project Final\dashboard\CMD.Business\bin\Debug\net5.0\CMD.Business.runtimeconfig.dev.json
+D:\Project Final\dashboard\CMD.Business\bin\Debug\net5.0\CMD.Business.dll
+D:\Project Final\dashboard\CMD.Business\bin\Debug\net5.0\ref\CMD.Business.dll
+D:\Project Final\dashboard\CMD.Business\bin\Debug\net5.0\CMD.Business.pdb
+D:\Project Final\dashboard\CMD.Business\obj\Debug\net5.0\CMD.Business.csproj.AssemblyReference.cache
+D:\Project Final\dashboard\CMD.Business\obj\Debug\net5.0\CMD.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Final\dashboard\CMD.Business\obj\Debug\net5.0\CMD.Business.AssemblyInfoInputs.cache
+D:\Project Final\dashboard\CMD.Business\obj\Debug\net5.0\CMD.Business.AssemblyInfo.cs
+D:\Project Final\dashboard\CMD.Business\obj\Debug\net5.0\CMD.Business.csproj.CoreCompileInputs.cache
+D:\Project Final\dashboard\CMD.Business\obj\Debug\net5.0\CMD.Business.dll
+D:\Project Final\dashboard\CMD.Business\obj\Debug\net5.0\ref\CMD.Business.dll
+D:\Project Final\dashboard\CMD.Business\obj\Debug\net5.0\CMD.Business.pdb
+D:\Project Final\dashboard\CMD.Business\obj\Debug\net5.0\CMD.Business.genruntimeconfig.cache
